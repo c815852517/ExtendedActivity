@@ -92,5 +92,9 @@ public class MainActivity extends PreferenceActivity {
 ```
 
 ### 实验界面截图
-![](https://github.com/c815852517/Android_UI/blob/master/app/src/4.png)
-
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/main.jpg)
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/1.jpg)
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/2.jpg)
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/3.jpg)
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/4.jpg)
+![](https://github.com/c815852517/ExtendedActivity/blob/master/app/src/5.jpg)
